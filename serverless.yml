@@ -1,5 +1,5 @@
 component: website
-name: MacroFE
+name: front-end
 app: my-fullstack-app
 
 inputs:
