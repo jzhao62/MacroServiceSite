@@ -68,7 +68,7 @@ class Dashboard extends Component {
             </div>
 
             <div className={`${styles.welcomeMessage}`}>
-              Welcome to your serverless fullstack dashboard...
+              Jingyi, Welcome to your serverless fullstack dashboard...
             </div>
 
           </div>
